@@ -33,4 +33,4 @@ pars2["HATLAS_RED_1529"] = ""
 pars2["HATLAS_RED_1801"] = ""
 
 if __name__ == '__main__':    
-    runs.mk_runs(project, on, pars1, pars2, sys.argv)
+    runs.mk_runs(project, on, pars1, pars2, None, sys.argv)
