@@ -1,2 +1,14 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
+#HATLAS_RED_1529
+112408_113795 [32/36] Detection 91.0 GHz
+112417 QAFAIL: bad board 0 all chassis
+113220 QAFAIL: chassis 3 bad
+113654 QAFAIL: Tsys bad, only 2 working chassis
+113794 QAFAIL: chassis 3 bad
+
+# HATLAS_RED_1801
+113798_114054 [30/33] No clear detection
+113657 QAFAIL: Tsys bad, 0 working chassis
+113658 QAFAIL: chassis 3 bad
+113659 QAFAIL: chassis 3 bad
