@@ -1,5 +1,14 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
+#HATLAS_RED_1476
+117835_119156 [25/30] No clear detection
+118102 QAFAIL: only one working board 5
+118104 QAFAIL: Tsys bad, only 1 working chassis
+118105 QAFAIL: Tsys bad, only 1 working chassis
+118106 QAFAIL: Tsys bad, 0 working chassis
+118111 QAFAIL: noisy repeat 4 gave bad spectrum
+119086 Note: RMS technically QAFAIL (> 1.4), but obsnum looks fine - left in combination
+
 #HATLAS_RED_1529
 112408_113795 [32/36] Detection 91.0 GHz
 112417 QAFAIL: bad board 0 all chassis
@@ -12,3 +21,8 @@
 113657 QAFAIL: Tsys bad, 0 working chassis
 113658 QAFAIL: chassis 3 bad
 113659 QAFAIL: chassis 3 bad
+
+# HATLAS_RED_2389
+117868_119401 [27/28] No clear detection
+119159 QAFAIL: only 1 working board 0
+119163 Note: RMS technically QAFAIL (> 1.4), but obsnum looks fine - left in combination
