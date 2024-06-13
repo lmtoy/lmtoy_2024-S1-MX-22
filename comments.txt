@@ -17,7 +17,7 @@
 113794 QAFAIL: chassis 3 bad
 
 # HATLAS_RED_1801
-113798_114054 [30/33] No clear detection
+113798_117242 [36/39] No clear detection
 113657 QAFAIL: Tsys bad, 0 working chassis
 113658 QAFAIL: chassis 3 bad
 113659 QAFAIL: chassis 3 bad
