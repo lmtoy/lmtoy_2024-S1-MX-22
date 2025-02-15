@@ -26,3 +26,6 @@
 117868_119401 [27/28] No clear detection           # qagrade=3
 119159 QAFAIL: only 1 working board 0
 119163 Note: RMS technically QAFAIL (> 1.4), but obsnum looks fine - left in combination
+
+# HATLAS_RED_2389
+126697_127321 detection ~101
