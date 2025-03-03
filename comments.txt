@@ -29,3 +29,35 @@
 
 # HATLAS_RED_2389
 126697_127321 detection ~101
+
+# HATLAS_RED_1737
+126697 QAFAIL: bad chassis 2 #qagrade=-2
+126696 QAFAIL: bad chassis 2 #qagrade=-2
+126699 removed cb 3/3 #badcb=3/3
+126701 removed cb 3/3 #badcb=3/3
+126702 QAFAIL: bad chassis 2 #qagrade=-2
+126703 removed cb 3/3, 2/0 #badcb=3/3,2/0
+126705 removed cb 3/3 #badcb=3/3
+126707 removed cb 3/3 #badcb=3/3
+127217 removed cb 2/1 #badcb=2/1
+127221 removed cb 3/0 #badcb=3/0
+127310 chassis 3 suspect, QA grade 2 #qagrade=2
+127311 removed cb 3/3 #badcb=3/3
+127312 removed cb 3/3 #badcb=3/3
+127315 removed cb 3/3 #badcb=3/3
+127316 removed cb 3/3 #badcb=3/3
+127321 removed cb 3/3 #badcb=3/3
+
+# HATLAS_RED_1615
+127431 removed cb 3/0 #badcb=3/0
+127435 removed cb 3/0 #badcb=3/0
+127436 removed cb 3/0 #badcb=3/0
+127437 removed cb 3/0 #badcb=3/0
+127441 removed cb 3/0 #badcb=3/0
+127449 removed cb 3/0 #badcb=3/0
+127454 removed cb 3/0 #badcb=3/0
+127458 removed cb 3/0 #badcb=3/0
+127532 QAFAIL: bad chassis 1 #qagrade=-2
+
+
+
